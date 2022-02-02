@@ -1,0 +1,33 @@
+
+
+
+
+
+.portal_div{
+    background-color: rgb(67, 67, 153);
+    border: 1px black solid;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 200px;
+
+  position: relative;
+  margin-left: 200px;
+  margin-top: -200px;
+}
+
+.btn_portal{
+    position: absolute;
+    left: -15px;
+    top: -40px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+i{
+    font-size: 50px;
+}
